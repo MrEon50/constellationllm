@@ -1,5 +1,3 @@
-# constellationllm
-The idea of ​​creating a "constellation" of LLMs
 # 🌟 Constellation LLM Orchestrator
 
 **An innovative multi-model LLM orchestration system using constellation theory and the golden ratio**
